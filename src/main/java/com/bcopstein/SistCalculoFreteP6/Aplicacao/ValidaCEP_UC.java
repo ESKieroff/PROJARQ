@@ -2,7 +2,6 @@ package com.bcopstein.SistCalculoFreteP6.Aplicacao;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
 import com.bcopstein.SistCalculoFreteP6.Dominio.ServicoCEP;
 import com.bcopstein.SistCalculoFreteP6.Persistencia.RepositorioDeCidades;
 
