@@ -2,7 +2,6 @@ package com.bcopstein.SistCalculoFreteP6.Aplicacao;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import org.springframework.stereotype.Component;
 
 @Component

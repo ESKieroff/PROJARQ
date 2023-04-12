@@ -1,10 +1,8 @@
 package com.bcopstein.SistCalculoFreteP6.Aplicacao;
 
 import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
 import com.bcopstein.SistCalculoFreteP6.Persistencia.RepositorioDeCidades;
 
 @Component
